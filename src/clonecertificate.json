@@ -1,0 +1,39 @@
+{
+  "aux_table_hash": "7ccec6000efcce526e969dd35a43950e505b01f530f4f9e13598b79292f93042",
+  "k": 4,
+  "selected_regions": [
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      12,
+      16
+    ]
+  ],
+  "scores": [
+    0.7649999999999999
+  ],
+  "cost": 1.5,
+  "phi_original": [
+    "short_hair",
+    "healthy",
+    "long_hair",
+    "lesion",
+    "mammal_safe",
+    "error"
+  ],
+  "phi_clone": [
+    "short_hair",
+    "healthy",
+    "long_hair",
+    "mammal_safe"
+  ],
+  "health_score": 1.0,
+  "recommendations": [],
+  "timestamp": "2025-09-03T00:13:00"
+}

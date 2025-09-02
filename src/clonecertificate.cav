@@ -1,0 +1,11 @@
+# OBINexus Directed Evolution Certificate
+AUX_TABLE_HASH: 7ccec6000efcce526e969dd35a43950e505b01f530f4f9e13598b79292f93042
+K: 4
+SELECTED_REGIONS: [(0, 4), (4, 8), (12, 16)]
+SCORES: [0.7649999999999999]
+COST: 1.5
+PHI_ORIGINAL: ['short_hair', 'healthy', 'long_hair', 'lesion', 'mammal_safe', 'error']
+PHI_CLONE: ['short_hair', 'healthy', 'long_hair', 'mammal_safe']
+HEALTH_SCORE: 1.0
+RECOMMENDATIONS: []
+TIMESTAMP: 2025-09-03T00:13:00
